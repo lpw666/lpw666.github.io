@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Error.html
+Disallow: /favicon.ico
+
+Sitemap: http://lpw666.github.io
